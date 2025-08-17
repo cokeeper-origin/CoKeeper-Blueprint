@@ -1,0 +1,16 @@
+Access Permissions
+Role	Can View	Can Edit	Can Dismiss Alerts	Notes
+PEIMS Clerk	✅	✅	❌	Schedule steward only
+Diagnostician	✅	✅	✅	SpEd alerts only
+OT/PT/Speech	✅	✅	✅	Role-specific
+Nurse	✅	✅	✅	Health alerts only
+Admin	✅	✅	✅	Full campus view
+Teachers	✅	❌	✅	Can dismiss, not edit
+Paras	✅	❌	✅	Hygiene + escort alerts
+
+What CoKeeper Is Not
+Misuse Type	Clarification
+Punitive Monitoring	❌ Not allowed. No behavior scoring, no compliance flags.
+Performance Evaluation	❌ Not a rubric. No data used for teacher ratings or para reviews.
+Surveillance	❌ No location tracking, no unauthorized access.
+Alert Fatigue Generator	❌ Alerts are curated, not constant. No spam.
